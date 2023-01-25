@@ -1,4 +1,3 @@
-print('Web scraping')
 input_1=input('Website:')
 headers={
       'user-agent':"Your User-Agent"
