@@ -7,4 +7,4 @@ Web Scraping With Python
 
 After: You will see all link.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Notice:If You don't see links.Should be true class name and website.
+Notice:If You don't see links.Should be true div class name and website.
