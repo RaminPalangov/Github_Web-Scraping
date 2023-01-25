@@ -12,7 +12,7 @@ for l in link:
   try:
     print('\nAll LINK')
     for x in soup.findAll('div',class_=cl):
-      a=x.find('a')
-      print(a.get('href'))
+      for d in x.findAll('a'):
+        print(d.get('href'))
   finally:
     print("\nIf You don't See links.Should be true class name and website")
