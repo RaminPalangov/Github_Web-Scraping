@@ -1,3 +1,6 @@
+import requests
+from bs4 import BeautifulSoup
+
 input_1=input('Website:')
 headers={
       'user-agent':"Your User-Agent"
