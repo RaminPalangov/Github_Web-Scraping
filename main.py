@@ -19,5 +19,5 @@ try:
 except:
   print("\nWrong Website link")
 else:
-  print("\nIf You don't See links.Should be true class name.")
+  print("\nIf You don't See links.Should be true div class name.")
 
